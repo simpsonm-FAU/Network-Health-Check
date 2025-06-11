@@ -1,4 +1,3 @@
-# Network-Health-Check
 # Network Health Report Tool
 
 This script automates the collection and reporting of network switch health data for Cisco IOS devices. It performs the following checks:
