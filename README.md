@@ -47,7 +47,7 @@ python3 network_health_report.py
 
 3. **When prompted**, enter SSH username and password.
 
-4. **Email report** will be sent to the configured recipient (`mike@fau.edu`) via `smtp.fau.edu`.
+4. **Email report** will be sent to the configured recipient (`youremail@yourdomain.com`) via `smtp.yourmail.com`.
 
 ---
 
