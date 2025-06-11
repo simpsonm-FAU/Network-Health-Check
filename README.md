@@ -74,16 +74,6 @@ Switch01 (10.1.1.1)
 🌡️ High inlet temperature: 105.2°F (40.7°C)
 ```
 
----
-
-## Customization Ideas
-
-* Export to local HTML or CSV file
-* Integration with ticketing systems (e.g. ServiceNow API)
-* Add remediation for common issues (e.g., shut/no shut)
-
----
-
 ## License
 
 MIT License - free to use and modify.
